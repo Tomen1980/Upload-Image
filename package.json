@@ -8,7 +8,7 @@
     "dev": "nodemon app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Agung Jumantoro Andrian",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
